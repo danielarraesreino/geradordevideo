@@ -12,12 +12,13 @@ Gerar roteiros de vídeos *faceless* de alto impacto para **desnaturalizar a bar
 
 ```
 vector-galaxy/
-├── prompts/
-│   └── master_prompt_storytelling.txt    # Prompt de sistema para IA criativa
-├── data/
-│   └── historias_base.csv                # Base de dados com variáveis narrativas
-└── output/
-    └── exemplo_terminal_onibus.md        # História exemplo (1200 chars)
+└── web-interface/
+    ├── prompts/           # Prompts de sistema
+    ├── data/              # CSV de histórias
+    ├── output/            # Roteiros e assets gerados
+    ├── scripts/           # Scripts de automação
+    ├── app/               # Interface Next.js (App Router)
+    └── components/        # Componentes do Studio
 ```
 
 ---
