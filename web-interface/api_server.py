@@ -8,7 +8,7 @@ from pathlib import Path
 from dotenv import load_dotenv
 
 # Setup
-project_root = Path(__file__).parent.parent
+project_root = Path(__file__).parent
 load_dotenv(project_root / '.env')
 sys.path.append(str(project_root / 'scripts'))
 

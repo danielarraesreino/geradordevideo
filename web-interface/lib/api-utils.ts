@@ -1,22 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 
-// Helper to find the project root that contains 'data' and 'output'
-function findProjectRoot() {
-    const currentPath = process.cwd();
-    // Check if we are in web-interface or the root
-    if (fs.existsSync(path.join(currentPath, 'data')) && fs.existsSync(path.join(currentPath, 'output'))) {
-        return currentPath;
-    }
-    const parentPath = path.resolve(currentPath, '..');
-    if (fs.existsSync(path.join(parentPath, 'data')) && fs.existsSync(path.join(parentPath, 'output'))) {
-        return parentPath;
-    }
-    // Fallback to current dir if not found (Vercel might have them in root if configured)
-    return currentPath;
-}
-
-const PROJECT_ROOT = findProjectRoot();
+const PROJECT_ROOT = process.cwd();
 const CSV_PATH = path.join(PROJECT_ROOT, 'data', 'historias_base.csv');
 const OUTPUT_DIR = path.join(PROJECT_ROOT, 'output');
 
