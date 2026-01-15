@@ -137,15 +137,30 @@ molhado, foco em uma coluna de concreto no centro
 
 ## 📖 Como Usar
 
-### 1. Gerar Nova História
+### 1. Studio Pop Rua (Interface Visual)
+
+O projeto agora conta com um **Studio de Edição** local completo.
 
 ```bash
-# Adicione nova linha ao CSV
-echo "011,Novo Local,Nome,Conflito,Dica,Tema" >> data/historias_base.csv
+# Servidor de API (Backend Python)
+python3 api_server.py
 
-# Execute o prompt master com a nova linha
-# (integração com API a ser implementada)
+# Servidor de Interface (Frontend Next.js)
+cd web-interface
+npm run dev
 ```
+
+Acesse: `http://localhost:3000`
+
+### 2. Deploy na Vercel
+
+Para rodar a interface na Vercel:
+1. Conecte este repositório no dashboard da Vercel.
+2. Nas configurações do projeto, defina **Root Directory** como `web-interface`.
+3. O build command será `npm run build` e o output directory será `.next`.
+
+> [!NOTE]
+> As funcionalidades de edição (salvar roteiro) dependem de acesso ao sistema de arquivos local. No deploy da Vercel, estas funções podem ser limitadas se não houver um banco de dados persistente configurado.
 
 ### 2. Revisar Output
 
