@@ -1,0 +1,217 @@
+═══════════════════════════════════════════════════════════════════════════════
+PROMPT ESPECIALIZADO: ARQUITETURA HOSTIL (EIXO C - AUDITORIA CÍVICA)
+═══════════════════════════════════════════════════════════════════════════════
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║ CONCEITO CENTRAL: A CIDADE QUE REPELE                                       ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+**Arquitetura hostil** (também chamada de "arquitetura defensiva" ou "design 
+anti-homeless") refere-se a modificações deliberadas no mobiliário urbano para 
+impedir que pessoas em situação de rua utilizem espaços públicos. Exemplos: 
+bancos com divisórias metálicas, pedras sob viadutos, aspersores de água em 
+marquises, remoção de bancos de praças.
+
+IMPORTÂNCIA: A Lei Federal 14.489/2022 (Lei Padre Júlio Lancellotti) PROÍBE 
+essas práticas, mas a fiscalização depende de DENÚNCIAS documentadas.
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║ OBJETIVOS DO ROTEIRO                                                         ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+1. Tornar VISÍVEL a violência invisível da arquitetura
+2. Provocar empatia física: "Como seria seu corpo nessa estrutura?"
+3. Citar Lei 14.489/2022 como instrumento de luta
+4. Mobilizar audiência como AUDITORES CÍVICOS (fotografar + denunciar)
+5. Criar acervo probatório no Wikimedia Commons para Ministério Público
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║ ESTRUTURA NARRATIVA OBRIGATÓRIA                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+┌─ GANCHO (0-5s) ──────────────────────────────────────────────────────────────┐
+│ VISUAL: Silêncio inicial. Apenas imagens em tons frios.                    │
+│ - Banco de praça com 3 divisórias metálicas                                 │
+│ - Pedras grandes sob viaduto reformado                                      │
+│ - Aspersores automáticos em marquise                                        │
+│                                                                              │
+│ ÂNGULO: Contra-plongée (câmera baixa olhando para cima) - perspectiva de   │
+│ quem está no chão, enfatizando a OPRESSÃO da estrutura.                    │
+│                                                                              │
+│ SEM NARRAÇÃO nos primeiros 3 segundos - deixar a imagem falar.             │
+│                                                                              │
+│ OBJETIVO: Impacto visual puro antes da explicação.                          │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+┌─ IDENTIFICAÇÃO (5-20s) ──────────────────────────────────────────────────────┐
+│ HISTÓRIA DO EU (Story of Self):                                             │
+│ Apresentar $NOME_FICTICIO que caminha quilômetros procurando onde descansar.│
+│                                                                              │
+│ PROVOCAÇÃO FÍSICA:                                                           │
+│ "Imagine que você caminhou 15 quilômetros hoje. Seus pés doem. Suas costas │
+│ doem. Você vê um banco na praça. Mas quando chega perto, repara: divisórias│
+│ de metal a cada 50 centímetros. Impossível deitar. Impossível até sentar   │
+│ de lado. Esse banco foi DESENHADO para repelir você."                       │
+│                                                                              │
+│ TÉCNICA: Usar 2ª pessoa ("você") para forçar identificação corporal.       │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+┌─ CONFLITO (20-45s) ──────────────────────────────────────────────────────────┐
+│ HISTÓRIA DO NÓS (Story of Us):                                              │
+│                                                                              │
+│ ESCALADA DA DENÚNCIA:                                                        │
+│                                                                              │
+│ 1. REVELAÇÃO TÉCNICA:                                                        │
+│    "Essas divisórias custaram R$ 800 por banco. Dinheiro público. Campinas │
+│    tem 1.847 pessoas na rua. Mas em vez de criar vagas em abrigos, a       │
+│    prefeitura investiu em tortura urbana."                                  │
+│                                                                              │
+│ 2. CONTEXTUALIZAÇÃO LEGAL:                                                   │
+│    "Isso NÃO É LEGAL. A Lei Federal 14.489 de 2022, conhecida como Lei     │
+│    Padre Júlio Lancellotti, PROÍBE arquitetura hostil em espaços públicos. │
+│    Multa: até R$ 100 mil. Mas só funciona se houver denúncia."             │
+│                                                                              │
+│ 3. DADO DE IMPACTO:                                                          │
+│    "Enquanto isso, o déficit de vagas em abrigos em Campinas é de quase    │
+│    1.000 pessoas. 72% não têm onde dormir. A cidade escolheu repelir em    │
+│    vez de acolher."                                                          │
+│                                                                              │
+│ CONCEITO SOCIOLÓGICO:                                                        │
+│ Conectar com DESAFILIAÇÃO (Wanderley): "Cada divisória metálica é mais um │
+│ vínculo rompido entre o cidadão e a cidade. Mais um degrau na escada da    │
+│ desinserção social."                                                        │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+┌─ FECHAMENTO (45-60s) ────────────────────────────────────────────────────────┐
+│ HISTÓRIA DO AGORA (Story of Now):                                           │
+│                                                                              │
+│ CALL TO ACTION WIKIMEDISTA (CRÍTICO):                                       │
+│                                                                              │
+│ "📸 Você pode mudar isso. Agora.                                            │
+│                                                                              │
+│ 1. Viu arquitetura hostil na sua cidade?                                   │
+│ 2. Tire foto com GPS ativado                                                │
+│ 3. Suba no Wikimedia Commons: commons.wikimedia.org/arquitetura-hostil     │
+│ 4. Marque @MinisterioPublicoSP no Twitter/X                                 │
+│                                                                              │
+│ Cada foto é uma EVIDÊNCIA. Estamos construindo o acervo probatório para    │
+│ ações do Ministério Público. Já são 847 uploads em São Paulo. Campinas     │
+│ precisa da sua contribuição.                                                │
+│                                                                              │
+│ A arquitetura hostil só funciona enquanto for invisível. Torne-a visível.  │
+│ Seja um auditor cívico. A cidade é de todos. Ou não é de ninguém."         │
+│                                                                              │
+│ INFORMAÇÃO COMPLEMENTAR:                                                     │
+│ Denúncia formal: Disque 100 (Direitos Humanos)                             │
+│ MP-SP: mp.sp.gov.br/portal/denuncie                                         │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║ ESPECIFICAÇÕES VISUAIS (FACELESS - ESTILO DENÚNCIA)                         ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+PALETA DE CORES: Tons FRIOS - hostilidade visual
+- Cinza concreto (frieza institucional)
+- Azul metálico das divisórias (agressividade)
+- Branco frio de aspersores (violência limpa)
+
+ÂNGULOS DE CÂMERA (CRÍTICO PARA IMPACTO):
+1. **Contra-plongée** (câmera no chão olhando p/ cima): Divisórias parecem grades
+2. **Plano detalhe**: Parafusos, soldas, instalações novas (prova de intencionalidade)
+3. **Plano de conjunto**: Banco dividido vs banco íntegro (antes/depois)
+4. **Tracking shot**: Câmera percorre quilômetros de pedras sob viaduto
+5. **Plano zenital**: Vista de cima mostrando distribuição estratégica das barreiras
+
+ILUMINAÇÃO:
+- Luz dura, sem difusão (aumenta sensação de hostilidade)
+- Sombras marcadas das divisórias (prisão visual)
+- Golden hour apenas no início (contraste: beleza da praça vs violência do mobiliário)
+
+INSTRUÇÕES PARA MOOTION/MIDJOURNEY:
+"Documentary photography, hostile architecture focus, cold blue-grey tones, 
+contra-plongée angles emphasizing oppression, metal dividers on benches, rocks 
+under viaduct, architectural violence, no faces, focus on structural barriers, 
+harsh lighting, high contrast, style: evidence photography meets urban activism, 
+reference: Padre Júlio Lancellotti's Instagram documentation"
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║ VALIDAÇÃO ÉTICA E LEGAL                                                      ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+TERMOS OBRIGATÓRIOS (bônus +5 pts cada):
+✅ "Lei 14.489/2022" ou "Lei Padre Júlio Lancellotti"
+✅ "arquitetura hostil"
+✅ "design anti-homeless"
+✅ "Wikimedia Commons"
+✅ "Ministério Público"
+
+DADOS OBRIGATÓRIOS:
+✅ Déficit de vagas em Campinas (baseado em censo_poprua_2024.json)
+✅ Custo das instalações hostis (se disponível)
+✅ Multa prevista em lei (até R$ 100 mil)
+
+LINGUAGEM DE ADVOCACY:
+- Tom firme mas não agressivo
+- Uso de IMPERATIVO no CTA ("Tire foto", "Denuncie", "Marque")
+- Empoderamento: "Você PODE mudar isso"
+
+DENSIDADE: 1100-1200 caracteres (narração de 60-65s)
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║ INTEGRAÇÃO COM WIKIMEDIA COMMONS                                             ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+CATEGORIA RECOMENDADA NO COMMONS:
+- Category:Hostile architecture in Brazil
+- Category:Human rights violations in São Paulo (state)
+- Category:Homelessness in Campinas
+
+METADATA OBRIGATÓRIA NA FOTO:
+- Localização GPS precisa
+- Data da foto
+- Tipo de estrutura hostil
+- Tag: #Lei14489 #ArquiteturaHostil #Campinas
+
+LICENÇA: CC0 (domínio público) para facilitar uso pelo MP
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║ INTEGRAÇÃO COM SERIOUS GAME                                                  ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+Este vídeo funciona como TRAILER para a missão do jogo:
+
+🎮 MISSÃO: "A Caça às Provas"
+OBJETIVO: Documentar 5 casos de arquitetura hostil em Campinas
+MECÂNICA: Usar câmera in-game para fotografar com GPS, fazer upload
+REWARD: Conquista "Auditor Cívico" + Desbloqueio de linha do tempo legal
+
+CTA NO FINAL DO VÍDEO:
+"Pratique no jogo antes de ir às ruas. App Caminhos Campinas - Missão 
+'Auditoria Urbana' [QR Code]"
+
+═══════════════════════════════════════════════════════════════════════════════
+EXEMPLO DE OUTPUT ESPERADO (1180 chars):
+═══════════════════════════════════════════════════════════════════════════════
+
+[3 segundos de silêncio - apenas imagens de bancos com divisórias metálicas]
+
+Beatriz caminhou quinze quilômetros hoje. Procurando trabalho informal, 
+carregando sacolas, fugindo da chuva. Agora, às sete da noite, ela vê um banco 
+na Praça da República. Recém-reformada. Mas quando se aproxima, repara: três 
+divisórias de metal. Impossível deitar. Impossível descansar. Cada divisória 
+custou oitocentos reais de dinheiro público.
+
+Isso não é acidente. É design. Arquitetura hostil. Campinas tem 1.847 pessoas 
+na rua. Déficit de quase mil vagas em abrigos. Mas em vez de criar acolhimento, 
+a prefeitura investiu em repelir corpos. E isso NÃO É LEGAL. A Lei Federal 
+14.489 de 2022, a Lei Padre Júlio Lancellotti, proíbe arquitetura hostil em 
+espaços públicos. Multa de até cem mil reais. Mas só funciona com denúncia.
+
+Você pode mudar isso agora. Viu banco com divisórias? Pedras sob viaduto? 
+Aspersores em marquise? Tire foto com GPS ligado. Suba no Wikimedia Commons. 
+Marque arroba MinistérioPublicoSP. Cada foto é evidência. Denúncia formal: 
+Disque 100. A arquitetura hostil só funciona enquanto for invisível. Beatriz 
+ainda está de pé. Torne isso visível. Seja auditor cívico. A cidade é de todos. 
+Ou não é de ninguém.
+
+═══════════════════════════════════════════════════════════════════════════════

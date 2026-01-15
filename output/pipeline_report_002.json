@@ -1,0 +1,11 @@
+{
+  "story_id": "002",
+  "success": true,
+  "step_completed": 5,
+  "script_score": 85,
+  "audio_path": "/home/dan/.gemini/antigravity/playground/vector-galaxy/output/audio/audio_002.mp3",
+  "video_path": "/home/dan/.gemini/antigravity/playground/vector-galaxy/output/video/visual_002.mp4",
+  "final_video_path": "/home/dan/.gemini/antigravity/playground/vector-galaxy/output/final/video_final_002.mp4",
+  "errors": [],
+  "total_time": 5.374803304672241
+}

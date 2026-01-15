@@ -1,0 +1,11 @@
+file '/home/dan/.gemini/antigravity/playground/vector-galaxy/output/images/scene_01.png'
+duration 22.75265
+file '/home/dan/.gemini/antigravity/playground/vector-galaxy/output/images/scene_02.png'
+duration 22.75265
+file '/home/dan/.gemini/antigravity/playground/vector-galaxy/output/images/scene_03.png'
+duration 22.75265
+file '/home/dan/.gemini/antigravity/playground/vector-galaxy/output/images/scene_04.png'
+duration 22.75265
+file '/home/dan/.gemini/antigravity/playground/vector-galaxy/output/images/scene_05.png'
+duration 22.75265
+file '/home/dan/.gemini/antigravity/playground/vector-galaxy/output/images/scene_05.png'

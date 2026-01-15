@@ -1,0 +1,52 @@
+[
+  {
+    "story_id": "001",
+    "tema": "Burocracia Excludente",
+    "prompt_generated": true,
+    "script_path": "/home/dan/.gemini/antigravity/playground/vector-galaxy/output/prompt_historia_001.txt",
+    "validation_score": null,
+    "validation_approved": false,
+    "errors": [],
+    "processing_time": 0.000316619873046875
+  },
+  {
+    "story_id": "002",
+    "tema": "Exclusão Financeira",
+    "prompt_generated": true,
+    "script_path": "/home/dan/.gemini/antigravity/playground/vector-galaxy/output/prompt_historia_002.txt",
+    "validation_score": null,
+    "validation_approved": false,
+    "errors": [],
+    "processing_time": 0.0004088878631591797
+  },
+  {
+    "story_id": "003",
+    "tema": "Vulnerabilidade Material",
+    "prompt_generated": true,
+    "script_path": "/home/dan/.gemini/antigravity/playground/vector-galaxy/output/prompt_historia_003.txt",
+    "validation_score": null,
+    "validation_approved": false,
+    "errors": [],
+    "processing_time": 0.0003247261047363281
+  },
+  {
+    "story_id": "004",
+    "tema": "Invisibilidade Social",
+    "prompt_generated": true,
+    "script_path": "/home/dan/.gemini/antigravity/playground/vector-galaxy/output/prompt_historia_004.txt",
+    "validation_score": null,
+    "validation_approved": false,
+    "errors": [],
+    "processing_time": 0.00032806396484375
+  },
+  {
+    "story_id": "005",
+    "tema": "Saúde Negligenciada",
+    "prompt_generated": true,
+    "script_path": "/home/dan/.gemini/antigravity/playground/vector-galaxy/output/prompt_historia_005.txt",
+    "validation_score": null,
+    "validation_approved": false,
+    "errors": [],
+    "processing_time": 0.00031304359436035156
+  }
+]

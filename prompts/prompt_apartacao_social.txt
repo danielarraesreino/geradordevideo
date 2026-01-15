@@ -1,0 +1,173 @@
+═══════════════════════════════════════════════════════════════════════════════
+PROMPT ESPECIALIZADO: APARTAÇÃO SOCIAL (EIXO A - MÁQUINA DA EMPATIA)
+═══════════════════════════════════════════════════════════════════════════════
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║ CONCEITO CENTRAL: O "NÃO SEMELHANTE"                                        ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+A **apartação social** transcende a desigualdade econômica. Ela representa a 
+construção simbólica do outro como um **"não semelhante"** - alguém excluído não 
+apenas do consumo, mas da própria comunidade moral. O conceito, desenvolvido por 
+Buarque de Holanda, revela que a pobreza estrutural não é um acidente, mas uma 
+**dívida social deliberada** mantida por governos e naturalizada pela sociedade.
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║ OBJETIVOS DO ROTEIRO                                                         ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+1. Desnaturalizar o **desvio de olhar** automático em espaços cotidianos
+2. Revelar o "muro de vidro" invisível construído pela aparência
+3. Conectar a exclusão simbólica com a **desafiliação social** (Wanderley)
+4. Provocar auto-reflexão: "Quantas vezes eu fui o problema?"
+5. Oferecer caminho concreto para ruptura do ciclo (Centro Pop)
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║ ESTRUTURA NARRATIVA OBRIGATÓRIA                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+┌─ GANCHO (0-3s) ──────────────────────────────────────────────────────────────┐
+│ VISUAL: Close-up em mãos contando moedas sobre balcão de vidro             │
+│ ÁUDIO: Som metálico de máquina de café expresso ao fundo + silêncio        │
+│                                                                              │
+│ NARRAÇÃO: "Você está na fila do café agora. Repare no detalhe..."          │
+│                                                                              │
+│ OBJETIVO: Criar ESTRANHAMENTO no familiar (técnica de Brecht)              │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+┌─ IDENTIFICAÇÃO (3-15s) ──────────────────────────────────────────────────────┐
+│ HISTÓRIA DO EU (Story of Self):                                             │
+│ Apresentar $NOME_FICTICIO em $LOCAL_COMUM. Detalhe crítico: essa pessoa    │
+│ já foi "você" - teve emprego, família, rotina. A DESAFILIAÇÃO (Wanderley)  │
+│ é um processo, não uma condição inata.                                      │
+│                                                                              │
+│ EXEMPLO DE TEXTO:                                                            │
+│ "Ricardo entra na fila do café toda manhã. Ele tem o dinheiro exato para   │
+│ um expresso. Mas algo acontece quando ele se aproxima do balcão. Um         │
+│ silêncio. Um desvio de olhar. Como se ele tivesse se tornado invisível...  │
+│ ou pior, visível demais."                                                   │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+┌─ CONFLITO (15-45s) ──────────────────────────────────────────────────────────┐
+│ HISTÓRIA DO NÓS (Story of Us):                                              │
+│ Revelar que o problema não é individual, mas ESTRUTURAL. Use dados do       │
+│ Censo PopRua 2024:                                                          │
+│ • "72% da população de rua em Campinas é preta/parda"                      │
+│ • "A apartação tem cor e endereço"                                          │
+│                                                                              │
+│ Conceitos obrigatórios a integrar:                                          │
+│ • APARTAÇÃO SOCIAL: Exclusão simbólica, não apenas material                │
+│ • DÍVIDA SOCIAL: Pobreza como ação deliberada de governos                  │
+│ • DESAFILIAÇÃO: Ruptura progressiva de vínculos (trabalho, família, self)  │
+│                                                                              │
+│ TÉCNICA: Provocar o espectador a se reconhecer como AGENTE da exclusão.    │
+│ "Quantas vezes você desviou o olhar? Quantas vezes você foi o muro de      │
+│ vidro na vida de alguém?"                                                   │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+┌─ FECHAMENTO (45-60s) ────────────────────────────────────────────────────────┐
+│ HISTÓRIA DO AGORA (Story of Now):                                           │
+│                                                                              │
+│ DUPLO MOVIMENTO:                                                             │
+│ 1. MICRO (individual): Olhar nos olhos na próxima vez                       │
+│ 2. MACRO (estrutural): Informação sobre Centro Pop                          │
+│                                                                              │
+│ DICA DE CAPACITAÇÃO OBRIGATÓRIA:                                            │
+│ Centro Pop Campinas                                                         │
+│ Rua Barão de Jaguara, 1230 - Centro                                         │
+│ Atendimento: Segunda a Sexta, 8h às 17h                                     │
+│ Não precisa agendamento. Compareça com ou sem documentos.                   │
+│                                                                              │
+│ Serviços: endereço de referência, emissão de docs, banho, alimentação.     │
+│                                                                              │
+│ FRASE FINAL (impacto):                                                      │
+│ "A invisibilidade é uma escolha. Sua. E minha. Ricardo ainda está na fila. │
+│ Na próxima vez, olhe nos olhos."                                            │
+└──────────────────────────────────────────────────────────────────────────────┘
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║ ESPECIFICAÇÕES VISUAIS (FACELESS)                                            ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+PALETA DE CORES: Tons quentes contrastando com frieza institucional
+- Café: marrom caramelo, vapor (vida, calor)
+- Balcão: vidro frio, reflexos distorcidos (barreira)
+- Mãos: foco em detalhes humanos (unhas, cicatrizes, veias)
+
+ÂNGULOS DE CÂMERA:
+1. Plano detalhe em moedas sendo contadas (despersonalização)
+2. Plano médio da fila, pessoas desfocadas (multidão indiferente)
+3. Contra-plongée do balcão (sensação de barreira alta)
+4. Plano geral da rua vazia ao amanhecer (solidão urbana)
+5. Close em xícara de café sendo preparada (contraste: serviço negado)
+
+INSTRUÇÕES PARA MOOTION/MIDJOURNEY:
+"Cinematic documentary, urban realism, warm browns vs cold glass, no faces 
+visible, focus on hands and objects, shallow depth of field, morning golden 
+hour lighting filtering through cafe window, slight film grain for emotional 
+texture, style: Wong Kar-wai meets Sebastião Salgado"
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║ VALIDAÇÃO ÉTICA ESPECIALIZADA                                                ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+TERMOS OBRIGATÓRIOS (bônus +5 pts cada):
+✅ "não semelhante"
+✅ "apartação social"
+✅ "dívida social"
+✅ "desafiliação"
+✅ "Decreto 7.053/2009"
+
+TERMOS PROIBIDOS (penalidade -50 pts):
+❌ "coitado"
+❌ "mendigo"
+❌ "escolha"
+❌ "preguiçoso"
+❌ "vagabundo"
+
+LINGUAGEM DE DIREITOS (obrigatória):
+- Citar Decreto 7.053/2009 (Política Nacional PopRua)
+- Tratar moradia como DIREITO, não favor
+- Usar "pessoa em situação de rua", nunca "morador de rua"
+
+DENSIDADE: 1150-1250 caracteres (otimizado para narração de 70s)
+
+╔══════════════════════════════════════════════════════════════════════════════╗
+║ INTEGRAÇÃO COM SERIOUS GAME                                                  ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+
+Este vídeo funciona como TRAILER para a missão do jogo:
+
+🎮 MISSÃO: "A Fila do Café"
+OBJETIVO: Conseguir tomar café sem sofrer discriminação
+MECÂNICA: Gerenciar "metros de invisibilidade" vs "sanidade social"
+REWARD: Desbloqueio do Centro Pop como safe zone
+
+CTA NO FINAL DO VÍDEO:
+"Quer entender como quebrar esse ciclo? Jogue a missão 'A Fila do Café' no 
+app Caminhos Campinas [QR Code]"
+
+═══════════════════════════════════════════════════════════════════════════════
+EXEMPLO DE OUTPUT ESPERADO (1200 chars):
+═══════════════════════════════════════════════════════════════════════════════
+
+Você está na fila do café agora. Repare no detalhe: aquele homem ali tem o 
+dinheiro exato. Três reais. Um expresso. Ricardo faz isso todo dia. Acorda às 
+cinco da manhã embaixo do viaduto, caminha até a praça, espera a cafeteria 
+abrir. Ele foi metalúrgico por vinte anos. Pagava boleto, levava filho na escola, 
+reclamava do trânsito. Até que a fábrica fechou. E o aluguel atrasou. E a esposa 
+foi embora. Desafiliação, os sociólogos chamam. A ruptura progressiva de todos 
+os vínculos.
+
+Mas o que mata Ricardo não é a fome. É o desvio de olhar. É o silêncio quando 
+ele se aproxima do balcão. Como se ele tivesse se tornado um "não semelhante". 
+Apartação social, não apenas desigualdade. 72% da população de rua em Campinas 
+é preta e parda. A exclusão tem cor e endereço. Isso não é acidente. É dívida 
+social. Uma ação deliberada que naturalizamos todo dia.
+
+Existe saída. O Centro Pop, na Rua Barão de Jaguara 1230, dá endereço de 
+referência, emite documentos, oferece banho. Não precisa agendamento. Mas antes 
+disso, existe você. Na próxima fila, olhe nos olhos. A invisibilidade é uma 
+escolha. Sua. E minha. Ricardo ainda está esperando.
+
+═══════════════════════════════════════════════════════════════════════════════
