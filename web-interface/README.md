@@ -29,6 +29,22 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
+## 🕊️ Manifesto: Studio Pop Rua como Máquina de Empatia
+
+A expansão do **Studio Pop Rua** representa a materialização técnica da **Fase 2 (Automação)** do **Vector Galaxy**. Esta estrutura transforma o sistema em uma ferramenta de produção audiovisual de alta fidelidade para o ativismo social:
+
+- **Refino e Validação**: O editor integra o modelo Ganz com validação ética rigorosa, garantindo dignidade e utilidade pública (informação de serviços reais).
+- **Realismo Sóbrio**: Estética Urban Noir que protege a identidade enquanto denuncia a apartação social e a arquitetura hostil.
+- **Ativismo Digital**: Produção calibrada para a economia da atenção (TikTok/Reels), transformando a "vontade de ser ouvido" em auditoria cívica.
+- **Dígito-Resiliência**: Um monorepo robusto que preserva a **memória da rua** contra resets de ambiente ou obsolescência tecnológica.
+
+> [!IMPORTANT]
+> O Studio Pop Rua é uma **"máquina de empatia"** funcional, pronta para converter vivências traumáticas em ferramentas de emancipação política.
+
+---
+
+**Lembrete Final:** *A invisibilidade é uma escolha. Sua. E minha.*
+
 ## Deploy on Vercel
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
