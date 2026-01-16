@@ -1,0 +1,5 @@
+{
+    "buildCommand": "cd web-interface && npm run build",
+    "outputDirectory": "web-interface/.next",
+    "installCommand": "cd web-interface && npm install"
+}
